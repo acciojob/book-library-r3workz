@@ -3,7 +3,7 @@ body{
     background-color: #f8f8f8;
     text-align: center;
 }
-h3{
+h2{
     text-transform: uppercase;
     text-align: left;
 }
@@ -16,7 +16,7 @@ h3{
     background-color: #f8f8f8;
 }
 .author{
-    color: #777777;
+    background-color: #777777;
     text-align: left;
 }
 .price-block{
